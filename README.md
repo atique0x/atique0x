@@ -41,7 +41,6 @@
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-
         </td>
         <td>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
@@ -49,7 +48,6 @@
         </td>
         <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML5" /></td>
-
         <td>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
                 alt="CSS3" />
@@ -108,7 +106,7 @@
 
 <h3 align="center">Github Overview</h3>
 <hr>
-<p style="text-align: center;">
+<p style="text-align: center; width:100% margin-left:auto; margin-right:auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=atique-shahriar&theme=dracula&show_icons=true"
         alt="Github Stats" style="height: 180px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique-shahriar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages"
