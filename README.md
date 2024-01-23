@@ -35,8 +35,9 @@
 </p>
 
 
-<h3 align="center">My Technology Stack</h3>
+
 <hr>
+<h3 align="center">My Technology Stack</h3>
 <table align="center">
     <tr>
         <td align="center">
@@ -104,8 +105,8 @@
 </table>
 
 
-<h3 align="center">Github Overview</h3>
 <hr>
+<h3 align="center">Github Overview</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=atique-shahriar&theme=dracula&show_icons=true"
         alt="Github Stats" style="height: 180px;" />
