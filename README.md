@@ -37,7 +37,7 @@
 
 <h3 align="center">My Technology Stack</h3>
 <hr>
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -60,7 +60,7 @@
 </table>
 
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
@@ -81,7 +81,7 @@
     </tr>
 </table>
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
@@ -90,7 +90,7 @@
     </tr>
 </table>
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"
@@ -106,7 +106,7 @@
 
 <h3 align="center">Github Overview</h3>
 <hr>
-<p style="text-align: center; width:100% margin-left:auto; margin-right:auto;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=atique-shahriar&theme=dracula&show_icons=true"
         alt="Github Stats" style="height: 180px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique-shahriar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages"
