@@ -72,11 +72,11 @@
                 alt="" />
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                 alt="" />
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
                 alt="" />
         </td>
     </tr>
@@ -84,8 +84,16 @@
 
 <table align="center">
     <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+        <td>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+                alt="" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
+                alt="" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
                 alt="" />
         </td>
     </tr>
