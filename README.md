@@ -79,6 +79,14 @@
                 <td>
             <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
         </td>
+                <td>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+                alt="" />
+        </td>
+                <td>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+                alt="" />
+        </td>
     </tr>
 </table>
 
@@ -90,10 +98,6 @@
         <td>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
                 alt="Python" />
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-                alt="" />
         </td>
         <td>
             <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
