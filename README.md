@@ -40,13 +40,6 @@
 <h3 align="center">My Technology Stack</h3>
 <table align="center">
     <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-                alt="Python" />
-        </td>
         <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML5" /></td>
         <td>
@@ -56,6 +49,9 @@
         <td>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
                 alt="Javascript" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
         </td>
     </tr>
 </table>
@@ -68,15 +64,19 @@
                 alt="" />
         </td>
         <td>
-            <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"
-                alt="" />
-        </td>
-        <td>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                 alt="" />
         </td>
+                <td>
+            <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+                alt="" />
+        </td>
         <td>
-            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+                alt="" />
+        </td>
+                <td>
+            <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"
                 alt="" />
         </td>
     </tr>
@@ -84,6 +84,13 @@
 
 <table align="center">
     <tr>
+                <td align="center">
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+                alt="Python" />
+        </td>
         <td>
             <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
                 alt="" />
@@ -101,6 +108,14 @@
 
 <table align="center">
     <tr>
+                <td align="center">
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+                alt="" />
+        </td>
+                <td align="center">
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+                alt="" />
+        </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"
                 alt="" />
