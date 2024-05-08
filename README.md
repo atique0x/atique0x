@@ -108,14 +108,6 @@
 
 <table align="center">
     <tr>
-                <td align="center">
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
-                alt="" />
-        </td>
-                <td align="center">
-            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-                alt="" />
-        </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"
                 alt="" />
