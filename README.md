@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/atique-shahriar/"><img
+    <a href="https://www.linkedin.com/in/atiqueshahriarr/"><img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="" /></a>
     <a href="https://www.facebook.com/atiqueshahriarr"><img
