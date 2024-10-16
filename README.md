@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atique Shahriar 👨‍💻</h1>
-<p align="center">A Web Developer from Bangladesh.</p>
+<p align="center">A Software Engineer from Bangladesh.</p>
 
 
 <p align="center">
