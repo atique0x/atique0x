@@ -146,8 +146,8 @@
 <hr>
 <h3 align="center">Github Overview</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atique-shahriar&theme=dracula&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=atiqueshahriarr&theme=dracula&show_icons=true"
         alt="Github Stats" style="height: 180px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique-shahriar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqueshahriarr&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages"
         alt="Top Languages" style="height: 180px;" />
 </p>
