@@ -26,7 +26,8 @@
 
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=atiqueshahriarr&theme=ocean-gradient" alt="GitHub Streak" /></a>
+        <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=atiqueshahriarr&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
