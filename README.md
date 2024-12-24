@@ -27,7 +27,7 @@
 
 <p align="center">
     <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=atiqueshahriarr&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+        src="https://user-images.githubusercontent.com/20955511/233865264-3bb6c04d-05d2-47b1-857c-3f9a1277651f.png" />
 </p>
 
 <p align="center">
