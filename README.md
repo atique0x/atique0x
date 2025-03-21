@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/13_wDiQBIAgxqw2vxBpMMGXumWcgYy7pl/view" alt="Cover Photo" />
+    <img src="https://raw.githubusercontent.com/atiqueshahriarr/atiqueshahriarr/refs/heads/main/New%20(56).jpg" alt="Cover Photo" />
 </div>
 
 <div>
