@@ -1,9 +1,5 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/atiqueshahriarr/atiqueshahriarr/refs/heads/main/New%20(56).jpg" alt="Cover Photo" />
-</div>
-
 <div>
-    <p align="center">I’m a Junior Web Developer with experience in building web applications and a growing interest in both frontend and backend development. I’m adaptable, collaborative, and thrive in dynamic environments, leveraging teamwork and problem-solving skills to deliver high-quality, user-focused solutions. I enjoy learning new technologies and tackling challenges to create impactful software.</p>
+    <h3 align="center">I’m a Junior Web Developer with experience in building web applications and a growing interest in both frontend and backend development. I’m adaptable, collaborative, and thrive in dynamic environments, leveraging teamwork and problem-solving skills to deliver high-quality, user-focused solutions. I enjoy learning new technologies and tackling challenges to create impactful software.</h3>
     <p align="center"> <img
             src="https://komarev.com/ghpvc/?username=atiqueshahriarr&label=Profile%20views&color=0e75b6&style=flat"
             alt="atiqueshahriarr" /></p>
