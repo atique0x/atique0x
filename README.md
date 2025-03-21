@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5616AQGoPlkh1a-FHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734445465445?e=1740614400&v=beta&t=RU5VRdgTFNzK9Rc__8uE4mbn9tBLKZxR4nK3U39oblc" alt="Cover Photo" />
+    <img src="https://drive.google.com/file/d/13_wDiQBIAgxqw2vxBpMMGXumWcgYy7pl/view?usp=sharing" alt="Cover Photo" />
 </div>
 
 <div>
