@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://drive.google.com/file/d/13_wDiQBIAgxqw2vxBpMMGXumWcgYy7pl/view?usp=sharing" alt="Cover Photo" />
+    <img src="https://drive.google.com/file/d/13_wDiQBIAgxqw2vxBpMMGXumWcgYy7pl/view" alt="Cover Photo" />
 </div>
 
 <div>
