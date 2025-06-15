@@ -1,7 +1,6 @@
-<h2>Hi from Atique, Web Developer & UI/UX Design Enthusiast</h2>
+<h2>👋 Hi, I'm Atique Shahriar</h2>
 
-Passionate about crafting intuitive, visually striking user interfaces with React, TailwindCSS, and JavaScript.
-Exploring Frontend and UI/UX while venturing into Backend innovation!
+I am a passionate self-taught developer currently focusing on <strong>AI/ML and Web Development</strong>. I love building projects that solve real-world problems and help businesses grow.
 <br />
 <br />
 <img src="https://komarev.com/ghpvc/?username=atiqueshahriarr&label=Profile%20views&color=0e75b6&style=flat"
