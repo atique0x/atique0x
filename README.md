@@ -72,5 +72,7 @@ I love building projects that solve real-world problems and help businesses grow
 
 ### GitHub Overview
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atique0x&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atique0x&theme=dracula&show_icons=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atique0x&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atique0x&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atique0x&theme=dracula&show_icons=true) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atique0x&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages)
 
