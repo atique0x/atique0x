@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Atique Shahriar
 
-I am a passionate self-taught developer currently focusing on **AI/ML and Web Development**.  
+I am a passionate self-taught developer currently focusing on **Web Development**.  
 I love building projects that solve real-world problems and help businesses grow.
 - 🎓 Completed Bachelor of Science (B.Sc.) in Computer Science & Engineering (CSE)
-- 💻 Experienced in Machine Learning and Data Science projects with practical applications
 - 🌐 Skilled in React, Tailwind CSS, and modern web development best practices
-- 🔭 Open to opportunities in AI/ML, Data Science, and Web Development
+- 🔭 Open to contributes in Web Development, AI/ML and Data Science
 
 
 
@@ -16,7 +15,7 @@ I love building projects that solve real-world problems and help businesses grow
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqueshahriarr/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atiqueshahriarr)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atiqueshahriarr)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satique06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atique0x/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atique0x)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atique0x)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satique06@gmail.com)
 
 ---
 
@@ -44,9 +43,6 @@ I love building projects that solve real-world problems and help businesses grow
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
@@ -54,7 +50,6 @@ I love building projects that solve real-world problems and help businesses grow
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -77,5 +72,5 @@ I love building projects that solve real-world problems and help businesses grow
 
 ### GitHub Overview
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atiqueshahriarr&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiqueshahriarr&theme=dracula&show_icons=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiqueshahriarr&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atique0x&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atique0x&theme=dracula&show_icons=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atique0x&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages)
 
